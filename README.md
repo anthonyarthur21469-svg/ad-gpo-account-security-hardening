@@ -240,7 +240,3 @@ Get-ADDefaultDomainPasswordPolicy | Select-Object MinPasswordLength,ComplexityEn
 - Security Filtering analysis and GPO troubleshooting
 - PowerShell-based identity recovery, GPO inventory, and security-policy auditing
 - Administrative reporting with `Get-GPOReport`
-
-## Resume / Interview Summary
-
-Strengthened Active Directory account security with a 14-character minimum password and 5-attempt lockout policy; created and scoped an HR-specific GPO; validated policy application with RSoP; reproduced and diagnosed a Security Filtering failure; remediated the configuration; and audited GPO and domain-security state with PowerShell.
